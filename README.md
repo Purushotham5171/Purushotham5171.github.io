@@ -1,0 +1,3 @@
+Download the file and extract all the files.
+Run the wordle.html file in any suitable browser.
+Enjoy the wordle game.............
